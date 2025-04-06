@@ -1,0 +1,10 @@
+Tarefa,Tipo,Dado
+Esperar,espera,2
+Abrir navegador,comando,"start msedge --inprivate"
+Esperar,espera,5
+Acessar Google,texto,"www.google.com"
+Pressionar,tecla,enter
+Esperar,espera,3
+Digitar pesquisa,texto,"Python RPA"
+Pressionar,tecla,enter
+Esperar,espera,5
